@@ -128,7 +128,7 @@ DSA/
 
 ## 👨‍💻 Author
 **Om Vaghela**  
-Computer Science Student
+Computer Science Student<br>
 LinkedIn - www.linkedin.com/in/omvaghela603
 Mail - omvaghela.brz@gmail.com
 ---
